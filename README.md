@@ -1,5 +1,7 @@
 
-# Bittensor Subnet Template
+# Coin Metrics Precog Subnet
+
+To be enhanced.
 
 This repository provides a minimal template for setting up a simple Bittensor subnet with a miner and a validator. The miner and validator communicate using a custom protocol defined in `protocol.py`. This template serves as a starting point for developers interested in building on the Bittensor network.
 
